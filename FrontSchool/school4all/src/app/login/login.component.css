@@ -1,0 +1,16 @@
+.logPosition{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login{
+    width: 30rem;
+    height: 30rem;
+    border: 2px solid burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form div{
+    width: 26rem;
+}
